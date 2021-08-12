@@ -1,9 +1,9 @@
 <p align="center">
 
-  <h3 align="center">Dynamic Symmetric Crypto System</h3>
+  <h3 align="center">Dynamic Symmetric Crypto System by  by<a href="github.com/deepgolani4/">deepgolani4</a> and <a href="github.com/sudonims">sudonims</a> </h3>
 
   <p align="center">
-    This Crypto System generates symmetric keys on the go dynamically to encrypt request body by <a href="#github.com/sudonims">sudonims</a>
+    This Crypto System generates symmetric keys on the go dynamically to encrypt request body
     <br />
     <br />
   </p>
