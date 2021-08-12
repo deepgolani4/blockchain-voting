@@ -3,7 +3,7 @@
   <h3 align="center">Dynamic Symmetric Crypto System</h3>
 
   <p align="center">
-    This Crypto System generates symmetric keys on the go dynamically to encrypt request body by sudonims and deepgolani4
+    This Crypto System generates symmetric keys on the go dynamically to encrypt request body by <a href="#github.com/sudonims">sudonims</a>
     <br />
     <br />
   </p>
